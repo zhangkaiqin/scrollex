@@ -2,7 +2,7 @@
   "name": "scrollex",
   "version": "1.0.0",
   "description": "Nifty scroll events for jQuery used in the Professor Zumbi website.",
-  "main": "jquery.scrollex.min.js",
+  "main": "scrollex.min.js",
   "repository": "https://github.com/professorzumbi/scrollex.git",
   "author": "Munair <munair@gmail.com>",
   "license": "MIT"
