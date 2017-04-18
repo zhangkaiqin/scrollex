@@ -1,9 +1,9 @@
 {
   "name": "scrollex",
   "version": "1.0.0",
-  "description": "Nifty scroll events for jQuery used in the Professor Zumbi website.",
+  "description": "Nifty scroll events for jQuery used in the Capoeira Studio Blog.",
   "main": "scrollex.min.js",
-  "repository": "https://github.com/professorzumbi/scrollex.git",
+  "repository": "https://github.com/capoeirastudio/scrollex.git",
   "author": "Munair <munair@gmail.com>",
   "license": "MIT"
 }
